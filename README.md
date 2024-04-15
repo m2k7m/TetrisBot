@@ -17,8 +17,6 @@ pip install discord.py
 ## Contributing
 If you're a developer and want to help fix known bugs, your contributions are welcome!
 
-Sure, I can help you improve the content of your `readme.md` file. Here's a revised version:
-
 ## Bot Hosting
 
 Here are some websites where you can host your Discord bot for free:
